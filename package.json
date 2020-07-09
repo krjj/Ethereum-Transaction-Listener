@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bn.js": "^5.1.2",
+    "ethereum-input-data-decoder": "^0.3.0",
+    "solc": "^0.6.11",
+    "web3": "^1.2.9"
+  }
+}
